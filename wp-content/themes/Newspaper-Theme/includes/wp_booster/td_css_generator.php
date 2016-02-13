@@ -23,9 +23,9 @@ function td_css_generator() {
         border-color: @theme_color !important;
     }
 
-    .author-box-wrap .td-author-name a, blockquote p, .page-nav a:hover, .widget_pages .current_page_item a,
+    .author-box-wrap .td-author-name a, blockquote p, .widget_pages .current_page_item a,
     .widget_calendar td a, .widget_categories .current-cat > a, .widget_pages .current_page_parent > a,
-    .td_pull_quote p, .page-nav-post a:hover span, .td-forum-last-comment-content .td-forum-last-author,
+    .td_pull_quote p, .td-forum-last-comment-content .td-forum-last-author,
     .td-topics-title-details a, .td-posted-in a {
         color: @theme_color;
     }
@@ -60,10 +60,20 @@ function td_css_generator() {
         color: @theme_color !important;
     }
 
-    .page-nav .current, .page-nav-post span {
+    .page-nav .current, .page-nav-post span{
         background-color: @theme_color;
         border-color: @theme_color;
     }
+    .page-nav a, .load-more button{
+        background-color: @pagination_button_color !important;
+        color: @pagination_text_color !important;
+    }
+
+    .page-nav a:hover, .load-more button:hover{
+        background-color: @pagination_button_hover_color !important;
+        color: @pagination_text_hover_color !important;
+    }
+
     .wpb_btn-inverse, .ui-tabs-nav .ui-tabs-active a, .post .wpb_btn-danger, .form-submit input, .wpcf7-submit,
     .wpb_default, .woocommerce .product .woocommerce-tabs ul.tabs li.active, .woocommerce.widget_product_search
     input[type=\"submit\"], .more-link-wrap, .td_read_more {
@@ -476,6 +486,10 @@ function td_css_generator() {
     $td_css_compiler->load_setting('big_slide_transform');
     $td_css_compiler->load_setting('main_menu_transform');
 
+    $td_css_compiler->load_setting('pagination_button_color');
+    $td_css_compiler->load_setting('pagination_text_color');
+    $td_css_compiler->load_setting('pagination_button_hover_color');
+    $td_css_compiler->load_setting('pagination_text_hover_color');
     //top menu + line color
     $tds_top_menu_text_color = td_util::get_option('td_fonts');
     if (!empty($tds_top_menu_text_color['top_menu']['color'])) {

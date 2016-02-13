@@ -419,9 +419,8 @@ body {
   margin-bottom: 42px;
 }
 .page-nav-post a {
-  background-color:#9a0808; /*button color*/
   border-radius:10px;
-  color:#FFFFFF !important;
+  color:#FFFFFF;
   font-family:'PT Sans', sans-serif;
   font-size:30px;
   font-weight:bold;
@@ -819,7 +818,7 @@ body > iframe {
   }
 }
 .td-header-style-8 .td-style-8-logo-wrapper .td-logo img {
-  height: 76px;
+  height: 60px;
   vertical-align: middle;
 }
 .td-header-style-8 .td-style-8-logo-wrapper .td-head-style8-logo-mobil {

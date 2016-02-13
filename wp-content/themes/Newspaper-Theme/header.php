@@ -70,8 +70,6 @@
 
 <body <?php body_class() ?>>
 
-
-
 <div id="outer-wrap">
     <div id="inner-wrap">
 <?php

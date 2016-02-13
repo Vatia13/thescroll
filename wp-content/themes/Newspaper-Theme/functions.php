@@ -862,14 +862,14 @@ function wp_link_pages_args_prevnext_add($args = '')
 {
     global $page, $numpages, $more, $pagenow;
 
-    $args['separator'] = ' <span><b>'.__('You are viewing page').'</b> '.$page.' '.__('of').' '.$numpages.'</span>';
+    $args['separator'] = ' <span><b>'.__(td_util::get_option('tds_header_pagination_text')).'</b> '.$page.' '.__('of').' '.$numpages.'</span>';
     $args['nextpagelink'] =  '<b>'.__( 'PAGE' ).' '. ($page + 1) .' <i class="fa fa-arrow-right"></i></b><strong>'.__('NEXT').'</strong>';
-    $args['previouspagelink'] =  '<b><i class="fa fa-arrow-left"></i> '. ($page - 1) .' '.__( 'PAGE' ).'</b><strong>'.__('PREV').'</strong>';
+    $args['previouspagelink'] =  '<b><i class="fa fa-arrow-left"></i> '.__( 'PAGE' ).'  '. ($page - 1) .'</b><strong>'.__('PREV').'</strong>';
     $args['link_before'] = '';
     $args['link_after'] = '';
     $args['next_or_number'] = 'next';
-    $first_page = ($page == 1) ? '<span style="background:none !important;"><b>'.__('You are viewing page').'</b> 1 '.__('of').' '.$numpages.'</span>' : '';
-    $last_page = ($page == $numpages) ? '<span style="background:none !important;"><b>'.__('You are viewing page').'</b> '.$page.' '.__('of').' '.$numpages.'</span>' : '';
+    $first_page = ($page == 1) ? '<span style="background:none !important;"><b>'.__(td_util::get_option('tds_header_pagination_text')).'</b> 1 '.__('of').' '.$numpages.'</span>' : '';
+    $last_page = ($page == $numpages) ? '<span style="background:none !important;"><b>'.__(td_util::get_option('tds_header_pagination_text')).'</b> '.$page.' '.__('of').' '.$numpages.'</span>' : '';
     $args['before'] = '<div class="page-nav page-nav-post"><center>'.$first_page;
     $args['after'] = $last_page.'</center></div>';
 

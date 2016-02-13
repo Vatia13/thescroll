@@ -66,6 +66,22 @@
         </div>
     </div>
 
+<!-- Header alignment up/down -->
+<div class="td-box-row">
+    <div class="td-box-description">
+        <span class="td-box-title">HEADER PAGINATION TEXT</span>
+        <p>You are viewing page (1 of 8)</p>
+    </div>
+    <div class="td-box-control-full">
+        <?php
+        echo td_panel_generator::input(array(
+            'ds' => 'td_option',
+            'option_id' => 'tds_header_pagination_text'
+        ));
+        ?>
+    </div>
+</div>
+
 <?php echo td_panel_generator::box_end();?>
 
 

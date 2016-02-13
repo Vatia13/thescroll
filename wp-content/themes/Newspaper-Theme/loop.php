@@ -75,7 +75,7 @@ if (have_posts()) {
     }else{
         $cat_type = '';
     }
-    echo ($loop_module_id == 1) ? '</div><div class="load-more" data-search="'.$data_type.'" data-cat="'.$cat_type.'"><div class="loading-gif" data-image="'.get_template_directory_uri().'/images/AjaxLoader.gif"></div><button data-url="'.site_url().'/wp-admin/admin-ajax.php">'.translate("Load More").'</button></div>' : '';
+    echo ($loop_module_id == 1) ? '</div><div class="load-more button" data-search="'.$data_type.'" data-cat="'.$cat_type.'"><div class="loading-gif" data-image="'.get_template_directory_uri().'/images/AjaxLoader.gif"></div><button data-url="'.site_url().'/wp-admin/admin-ajax.php">'.translate("Load More").'</button></div>' : '';
     echo $td_template_layout->close_all_tags();
 
 

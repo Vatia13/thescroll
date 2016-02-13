@@ -1,6 +1,72 @@
 <!-- THEME COLORS -->
 <?php echo td_panel_generator::box_start('Theme colors'); ?>
+<!-- Page navigation text color -->
+<div class="td-box-row">
+    <div class="td-box-description">
+        <span class="td-box-title">PAGINATION BUTTON COLOR</span>
+        <p>Select pagination button color</p>
+    </div>
+    <div class="td-box-control-full">
+        <?php
+        echo td_panel_generator::color_piker(array(
+            'ds' => 'td_option',
+            'option_id' => 'tds_pagination_button_color',
+            'default_color' => '#dd3333'
+        ));
+        ?>
+    </div>
+</div>
 
+<!-- Page navigation text color -->
+<div class="td-box-row">
+    <div class="td-box-description">
+        <span class="td-box-title">PAGINATION BUTTON HOVER COLOR</span>
+        <p>Select pagination button hover color</p>
+    </div>
+    <div class="td-box-control-full">
+        <?php
+        echo td_panel_generator::color_piker(array(
+            'ds' => 'td_option',
+            'option_id' => 'tds_pagination_button_hover_color',
+            'default_color' => '#dd3333'
+        ));
+        ?>
+    </div>
+</div>
+
+<!-- Page navigation text color -->
+<div class="td-box-row">
+    <div class="td-box-description">
+        <span class="td-box-title">PAGINATION TEXT COLOR</span>
+        <p>Select pagination text color</p>
+    </div>
+    <div class="td-box-control-full">
+        <?php
+        echo td_panel_generator::color_piker(array(
+            'ds' => 'td_option',
+            'option_id' => 'tds_pagination_text_color',
+            'default_color' => '#414141'
+        ));
+        ?>
+    </div>
+</div>
+
+<!-- Page navigation text color -->
+<div class="td-box-row">
+    <div class="td-box-description">
+        <span class="td-box-title">PAGINATION TEXT HOVER COLOR</span>
+        <p>Select pagination text hover color</p>
+    </div>
+    <div class="td-box-control-full">
+        <?php
+        echo td_panel_generator::color_piker(array(
+            'ds' => 'td_option',
+            'option_id' => 'tds_pagination_text_hover_color',
+            'default_color' => '#FFFFFF'
+        ));
+        ?>
+    </div>
+</div>
     <!-- theme_color -->
     <div class="td-box-row">
         <div class="td-box-description">
