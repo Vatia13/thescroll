@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="82722d57-e082-45ea-a4d1-9c7a5c702af7" name="thescroll" url="http://91.208.99.4">
+        <fileTransfer host="91.208.99.4" port="21" rootFolder="/public_html" password="dfdfdfc2dfccdfcedfc8dfc4dfccdfdddfc8dfd0df9bdf99" username="vatia@thescroll.co">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
