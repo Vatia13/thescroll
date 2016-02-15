@@ -80,8 +80,7 @@ class td_module {
             $buffy .= '<span class="td-block-author">';
                 $buffy .= __td('by', TD_THEME_NAME);
                 $buffy .= ' ';
-                $buffy .= '<a itemprop="author" href="' . get_author_posts_url($this->post->post_author) . '">' . get_the_author_meta('display_name', $this->post->post_author) . '</a>' ;
-                $buffy .= ' - ';
+                $buffy .= get_the_author_meta('display_name', $this->post->post_author) ;
             $buffy .= '</span>';
 
 

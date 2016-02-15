@@ -9,11 +9,17 @@ class td_page_generator {
     //this is the global page wrap, it prepares the page for the pagebuilder
     static function wrap_start() {
         $buffy = '';
-
+        if(is_single()){
+            $style = 'style="width:1264px;padding:49px 0 0 0;"';
+            $span12 = 'style="width:1264px;';
+        }else{
+            $style = '';
+            $span12 = '';
+        }
         $buffy .= '
-        <div class="container td-page-wrap">
+        <div class="container td-page-wrap" '.$style.'>
             <div class="row">
-                <div class="span12">
+                <div class="span12" '.$span12.'>
                     <div class="td-grid-wrap">
                         <div class="container-fluid">
                             <div class="row-fluid ">

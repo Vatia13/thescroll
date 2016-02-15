@@ -66,8 +66,6 @@ class td_module_blog extends td_module {
 \'left=50,top=50,width=600,height=350,toolbar=0\'); return false;}" ><div class="td-sp td-sp-share-twitter"></div><div class="td-social-but-text">Twitter</div></a>
                     <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=' . urlencode(get_permalink()) . '" onclick="window.open(this.href, \'mywin\',
 \'left=50,top=50,width=600,height=350,toolbar=0\'); return false;"><div class="td-sp td-sp-share-facebook"></div><div class="td-social-but-text">Facebook</div></a>
-                    <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=' . get_permalink() . '" onclick="window.open(this.href, \'mywin\',
-\'left=50,top=50,width=600,height=350,toolbar=0\'); return false;"><div class="td-sp td-sp-share-google"></div><div class="td-social-but-text">Google +</div></a>
                     <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=' . get_permalink() . '&amp;media=' . (!empty($image[0]) ? $image[0] : '') . '" onclick="window.open(this.href, \'mywin\',
 \'left=50,top=50,width=600,height=350,toolbar=0\'); return false;"><div class="td-sp td-sp-share-pinterest"></div><div class="td-social-but-text">Pinterest</div></a>
                 </div>';
@@ -476,10 +474,7 @@ class td_module_blog extends td_module {
             $content = $content_buffer;
         }
 
-        //add the top ad
-        if (td_util::is_ad_spot_enabled('content_top') and is_single()) {
-            $content = td_global_blocks::get_instance('td_ad_box')->render(array('spot_id' => 'content_top')) . $content;
-        }
+
 
 
         //add bottom ad

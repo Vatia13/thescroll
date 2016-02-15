@@ -4,6 +4,8 @@ jQuery(document).ready(function($){
         itemSize();
     });
     itemSize();
+    $('article .page-nav.page-nav-post .big').parent('a').css('width','90%');
+
 });
 
 function loadMore($){
@@ -51,7 +53,7 @@ function itemSize(){
 }
 
 function topPagination($){
-    var pRight = ($(window).width() - ($('.container .container-fluid .row-fluid').offset().left + $('.container .container-fluid .row-fluid').outerWidth()));
+    var pRight = ($(window).width() - ($('.container .container-fluid .row-fluid').offset().left + $('.container .container-fluid .row-fluid').outerWidth()) + 5);
     $('.show-on-scroll').css('right', pRight + 'px').css('width',$('.container .container-fluid .row-fluid').width()+'px');
     //$('.show-on-scroll center > span d').html('You are viewing page');
     $(this).scrollTop(0);

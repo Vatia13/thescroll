@@ -24,7 +24,7 @@
     max-height:345px;
 }
 .first-post-image img{
-    width:700px !important;
+    width:728px !important;
 }
 
 .first-post-title h1 a{
@@ -137,6 +137,11 @@
 .load-more .loading-gif{
     margin-bottom:20px;
 }
+
+.container,.span12{
+    width:1100px;
+}
+
 
 /* FOOTER */
 
@@ -290,4 +295,36 @@
 
 .block-title a, .block-title span, .td-tags a:hover, .td-scroll-up-visible, .td-scroll-up, .sf-menu ul .current-menu-item > a, .sf-menu ul a:hover, .sf-menu ul .sfHover > a, .sf-menu ul .td-not-mega > a:hover, .td-rating-bar-wrap div, .iosSlider .slide-meta-cat, .sf-menu ul .current-menu-ancestor > a, .td-404-sub-sub-title a, .widget_tag_cloud .tagcloud a:hover, .td-mobile-close a, ul.td-category a, .td_social .td_social_type .td_social_button a, .dropcap, .td-forum-category-title .td-forum-category-name, .td_display_err, .td_block_mega_menu .td-ajax-next-page:hover, .td_block_mega_menu .td_ajax-prev-page:hover, .post-via span{
     background:none !important;
+}
+
+article .page-nav-post a{
+    font-size:40px !important;
+}
+
+.left-banners{
+    position:relative;
+    width:160px;
+}
+
+.td-g-rec-id-content_top{
+    overflow:hidden;
+}
+
+.td-g-rec-id-content_bottom{
+    overflow:hidden;
+}
+
+.post-bottom-ad{
+    position:relative;
+    top:20px;
+}
+
+.row-fluid .span8{
+    max-width:728px !important;
+    margin-left:15px;
+}
+
+.container-fluid{
+    padding-left:0;
+    padding-right:0;
 }

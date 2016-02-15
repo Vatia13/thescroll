@@ -24,6 +24,7 @@ if (have_posts()) {
             </div>
         </div>
     <?php endif;?>
+
         <article id="post-<?php echo $td_mod_single->post->ID;?>" class="<?php echo join(' ', get_post_class());?>" <?php echo $td_mod_single->get_item_scope();?>>
 
         <header>
@@ -31,14 +32,20 @@ if (have_posts()) {
             <?php echo $td_mod_single->get_title();?>
 
             <div class="meta-info">
-                <?php echo $td_mod_single->get_category();?>
-                <?php //echo $td_mod_single->get_author();?>
-                <?php echo $td_mod_single->get_date(false);?>
-                <?php echo $td_mod_single->get_commentsAndViews();?>
+                <?php //echo $td_mod_single->get_category();?>
+
+                <?php echo $td_mod_single->get_date(true);?> | <?php echo $td_mod_single->get_author();?>
+                <?php //echo $td_mod_single->get_commentsAndViews();?>
             </div>
         </header>
-
-
+            <?php echo $td_mod_single->get_social_sharing();?>
+            <?php echo $td_mod_single->get_social_like_tweet();?>
+            <?php
+            //add the top ad
+            if (td_util::is_ad_spot_enabled('content_top') and is_single()) {
+                echo td_global_blocks::get_instance('td_ad_box')->render(array('spot_id' => 'content_top'));
+            }
+            ?>
         <?php if (!empty($td_mod_single->td_post_theme_settings['td_subtitle'])) { ?>
             <p class="td-sub-title"><?php echo $td_mod_single->td_post_theme_settings['td_subtitle'];?></p>
         <?php } ?>
@@ -64,13 +71,20 @@ if (have_posts()) {
             <?php echo $td_mod_single->get_post_pagination();?>
             <?php echo $td_mod_single->get_review();?>
             <?php echo $td_mod_single->get_source_and_via();?>
-            <?php echo $td_mod_single->get_social_sharing();?>
-            <?php echo $td_mod_single->get_social_like_tweet();?>
+
             <?php echo $td_mod_single->get_next_prev_posts();?>
             <?php echo $td_mod_single->get_author_box();?>
 
 
             <?php echo $td_mod_single->get_item_scope_meta();?>
+            <div class="post-bottom-ad">
+                <?php
+                //add the bottom 3 ad
+                if (td_util::is_ad_spot_enabled('custom_ad_3') and is_single()) {
+                    echo td_global_blocks::get_instance('td_ad_box')->render(array('spot_id' => 'custom_ad_3'));
+                }
+                ?>
+            </div>
         </footer>
 
     </article> <!-- /.post -->
@@ -81,7 +95,7 @@ if (have_posts()) {
             });
         </script>
     <?php endif;?>
-    <?php echo $td_mod_single->related_posts();?>
+    <?php// echo $td_mod_single->related_posts();?>
 
 <?php
 } else {

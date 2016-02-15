@@ -33,8 +33,8 @@ class td_responsive {
                 $classes[]= 'td_980_not_resp';
                 break;
 
-            case '1170':
-                $classes[]= 'td_1170_not_resp';
+            case '1264':
+                $classes[]= 'td_1264_not_resp';
                 break;
 
             default:

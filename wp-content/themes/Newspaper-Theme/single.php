@@ -75,15 +75,35 @@ if (empty($td_post_theme_settings['td_post_template'])) {
         default: // sidebar right - the default sidebar position
             echo td_page_generator::wrap_start();
             ?>
-                <div class="span8 column_container td-post-content" role="main" itemprop="mainContentOfPage">
+            <?php if (td_util::is_ad_spot_enabled('custom_ad_1') and is_single()):?>
+            <div class=" span2 left-banners" <?php if (!td_util::is_ad_spot_enabled('custom_ad_1') and !is_single()):?>style="display:none"<?php endif;?>>
+                <div class="lb1">
                     <?php
-                    locate_template('loop-single.php', true);
-                    comments_template('', true);
+                    //add the left add
+                    if (td_util::is_ad_spot_enabled('custom_ad_1') and is_single()) {
+                        echo td_global_blocks::get_instance('td_ad_box')->render(array('spot_id' => 'custom_ad_1'));
+                    }
                     ?>
                 </div>
-                <div class="span4 column_container td-post-sidebar" role="complementary" itemscope="itemscope" itemtype="<?php echo td_global::$http_or_https?>://schema.org/WPSideBar">
-                    <?php get_sidebar(); ?>
+                <div class="lb2">
+                    <?php
+                    //add the left 2 add
+                    if (td_util::is_ad_spot_enabled('custom_ad_2') and is_single()) {
+                        echo td_global_blocks::get_instance('td_ad_box')->render(array('spot_id' => 'custom_ad_2'));
+                    }
+                    ?>
                 </div>
+            </div>
+        <?php endif;?>
+            <div class="span8 column_container td-post-content" role="main" itemprop="mainContentOfPage">
+                <?php
+                locate_template('loop-single.php', true);
+                // comments_template('', true);
+                ?>
+            </div>
+            <div  style="width: 26%;margin-left:25px;" class="span4 column_container td-post-sidebar" role="complementary" itemscope="itemscope" itemtype="<?php echo td_global::$http_or_https?>://schema.org/WPSideBar">
+                <?php get_sidebar(); ?>
+            </div>
             <?php
             echo td_page_generator::wrap_end();
             break;
@@ -110,10 +130,12 @@ if (empty($td_post_theme_settings['td_post_template'])) {
             td_global::$load_featured_img_from_template = 'full';
             echo td_page_generator::wrap_start();
             ?>
+
             <div class="span12 column_container td-post-content" role="main" itemprop="mainContentOfPage">
+
                 <?php
                 locate_template('loop-single.php', true);
-                comments_template('', true);
+                //comments_template('', true);
                 ?>
             </div>
             <?php
