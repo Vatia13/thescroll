@@ -4,9 +4,6 @@
     <list default="true" id="f71c94d2-10a5-4ad1-915f-17ade8734def" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" afterPath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_page_generator.php" afterPath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_page_generator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js" afterPath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/style.css" />
     </list>
     <ignored path="thescroll.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.901961">
-              <caret line="431" column="33" selection-start-line="431" selection-start-column="33" selection-end-line="431" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.92105263">
+              <caret line="435" column="23" selection-start-line="435" selection-start-column="23" selection-end-line="435" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54198474">
+            <state vertical-scroll-proportion="0.0">
               <caret line="56" column="91" selection-start-line="56" selection-start-column="91" selection-end-line="56" selection-end-column="91" />
               <folding />
             </state>
@@ -136,8 +133,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/customcss_new_beckup.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_page_generator.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" />
       </list>
     </option>
   </component>
@@ -323,7 +320,7 @@
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32503662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32796487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32796487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -732,18 +729,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.901961">
-          <caret line="431" column="33" selection-start-line="431" selection-start-column="33" selection-end-line="431" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="91" selection-start-line="56" selection-start-column="91" selection-end-line="56" selection-end-column="91" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54198474">
-          <caret line="56" column="91" selection-start-line="56" selection-start-column="91" selection-end-line="56" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.92105263">
+          <caret line="435" column="23" selection-start-line="435" selection-start-column="23" selection-end-line="435" selection-end-column="23" />
           <folding />
         </state>
       </provider>

@@ -431,4 +431,8 @@ article .page-nav-post a{
     .single-post .td-post-sidebar{
         margin-left:0 !important;
     }
+
+    .single-post .container.td-page-wrap .span12{
+        padding:49px 0;
+    }
 }
