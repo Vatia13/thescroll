@@ -53,8 +53,8 @@ function itemSize(){
 }
 
 function topPagination($){
-    var pRight = ($(window).width() - ($('.container .container-fluid .row-fluid').offset().left + $('.container .container-fluid .row-fluid').outerWidth()) + 5);
-    $('.show-on-scroll').css('right', pRight + 'px').css('width',$('.container .container-fluid .row-fluid').width()+'px');
+    var pRight = ($(window).width() - ($('.single-post .container').offset().left + $('.single-post .container').outerWidth()) + 5);
+    $('.show-on-scroll').css('right', pRight + 'px').css('width',$('.single-post .container').width()+'px');
     //$('.show-on-scroll center > span d').html('You are viewing page');
     $(this).scrollTop(0);
     $(this).scroll(function () {
