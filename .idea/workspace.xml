@@ -2,8 +2,584 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f71c94d2-10a5-4ad1-915f-17ade8734def" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/attachment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress/content-archive-forum.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress/content-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress/content-single-forum.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress/content-single-topic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress/content-single-user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress/form-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/bbpress/pagination-topics.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/customcss_new_beckup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/AjaxLoader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/colorbox/gallery-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/colorbox/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/4.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/ad_sidebar/ads-200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/ad_sidebar/ads-250.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/ad_sidebar/ads-300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/ad_top/ads-468.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/ad_top/ads-728.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/logo-footer-retina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/logo-footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/logo-top-retina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/logo-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/p1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/p2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/p3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/p4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/demo/p5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/first-title-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/footer/top-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/header/bg-shadow-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/header/bg-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/header/elements-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/header/elements-menu@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/header/header-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/header/header-bg@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/header/menu-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/ico-video-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/ico-video-large@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/li.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/li@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/newspaper.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/newspaper.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/newspaper.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/newspaper.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/pull-quote-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/pull-quote-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/similar-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/similar-left@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/similar-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/similar-right@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/pinterest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style1-16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style1-16@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style1-32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style1-32@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style1-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style1-64@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style2-16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style2-16@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style2-32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style2-32@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style2-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style2-64@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style3-16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style3-16@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style3-32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style3-32@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style3-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style3-64@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style4-16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style4-16@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style4-32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style4-32@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style4-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/sprite/style4-64@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/social/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/video-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/icons/video-small@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-img-page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-big-1col.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-gal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-slide-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-slide-med.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-slide-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-slidebig-main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/no-thumb/art-wide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/12_12_high.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/13_13_13_high.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/1_high.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/23_13_high.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/ads.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/authors-box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/big-slider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/block9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/categ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/slider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/social-counter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/tabs-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/pagebuilder/title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/sprite/elements.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/sprite/elements@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/images/td-op-ok.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/module_modifier/td_module_blog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_aj_search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_mega_menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_slide.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_slide_big.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/plugins/js_composer.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/plugins/revslider.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/plugins/td-social-counter.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/plugins/td-speed-booster.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_ad_box.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_authors.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_empty_class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_block_mega_menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_misc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_popular_categories.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_revolution_slider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_slide.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_slide_big.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_social.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/shortcodes/td_text_with_title.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/td_wordpres_booster.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/widgets/td_footer_logo_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/widgets/td_login_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/widgets/td_page_builder_widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/files_cookies_settings/demo_style_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/files_cookies_settings/demo_style_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/files_cookies_settings/demo_style_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/files_cookies_settings/demo_style_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/files_cookies_settings/demo_style_5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/td_ios_redirect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/td_theme_demo_cookies.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/td_theme_style.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-affix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-transition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/js/bootstrap-typeahead.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/accordion.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/hero-unit.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/labels-badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/layouts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/reset.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/responsive-1200px-min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/responsive-767px-max.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/responsive-768px-979px.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/responsive-navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/responsive.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/sprites.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/bootstrap-master/less/wells.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/included-scripts/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/td-bootstrap-1170-not-resp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/td-bootstrap-980-not-resp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/td-bootstrap-980-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/td-bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/class-tgm-plugin-activation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_ads.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_background.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_block.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_block_layout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_css_buffer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_css_compiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_css_generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_data_source.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_demo_site.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_first_install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_fonts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_generic_filter_array.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_generic_filter_builder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_global.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_global_blocks.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_js_buffer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_js_generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_menu_back.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_more_article_box.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_page_generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_page_views.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_responsive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_review.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_social_icons.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_template_layout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_translate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_unique_posts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_util.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_video_support.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_widget_builder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/full_compact/site.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/min/site.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_affix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_ajax_count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_backstretch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_blocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_detect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_external.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_loading_box.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_local_cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_post_images.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_site.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_sprite_3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_style_customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_template_single_1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/td_util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/animations_compact.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/colorbox.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/comments.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/editor-style.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/font-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/footer.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/galleries.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/gallery-slider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/header.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/ie.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/less/lessc.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/magnific-popup.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/main.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/menu-header.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/menu-mobile.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/menu-top.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/mixin.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/modal-window.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/more-stories.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/page.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/blocks.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/accordion.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/button.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/contact_form.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/default.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/faq.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/map.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/message_box.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/separator.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/tabs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/tour_section.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included/video_player.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/included_front_css_incomplete/page_builder_front.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/modules.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_ads.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_authors.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_big_grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_definition_list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_gallery.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_revolution_slider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_slide.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_slide_big.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_social.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/pagebuilder/td_text_with_title.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/plugins/bbpress.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/plugins/buddypress.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/plugins/social-counter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/plugins/woocommerce.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/post-templates.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/post.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/responsive.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/retina.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/review.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/rtl.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/shortcodes_other.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/sprite.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/stacks.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/style_customizer.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/td_loading_box.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/timeline.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/totop.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/widgets/popular-posts-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/widgets/socialbox.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/widgets/td_tab.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/less_files/widgets/wp-widgets.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-attachment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-single-1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-single-2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-single-3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-single-4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-single-5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-timeline.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page-bbpress.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page-homepage-bg-loop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page-homepage-bg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page-homepage-blank.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page-homepage-loop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page-homepage-timeline.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page-pagebuilder-title.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-full-text-logo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-style-1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-style-2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-style-3-ad.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-style-3-logo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-style-8-one-line.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/logo-mobile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/menu-header-center.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/menu-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/menu-mobile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/menu-top.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/page-author-box.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/page-category-slider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/page-homepage-slider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/page-search-box.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/searchform.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/single_template_1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/single_template_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/single_template_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/single_template_4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/single_template_5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/td_less_editor-style.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/td_less_style.css.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/theme-style.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/translation/default.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/translation/default.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/vc_templates/vc_column.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/vc_templates/vc_row.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/woocommerce.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/meta.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_homepage_loop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_homepage_loop_filter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_homepage_loop_slide.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_post_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_reviews.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_unique_articles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_video_meta.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_templates_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/box.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/content.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/controls.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/footer.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/header.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/help-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/import_demo.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/navigation.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/panel/page-builder.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/wp-admin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/css/wp-admin.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/external/wpalchemy/MediaAccess.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/external/wpalchemy/MetaBox.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/header-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/ico-delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/ico-dot-no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/ico-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/ico-edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/info-homepage-bg-article.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/info-homepage-bg-pb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/info-homepage-loop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/menu/ico-categ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/menu/ico-contact.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/menu/ico-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/menu/ico-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/menu/ico-social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/menu/ico-video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/ad-center.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/ad-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/ad-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/arrow-sidebar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/bg/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/bg/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/check_box_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/colors-button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/del-sidebar-opt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/footer-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/footer-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/footer-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/footer-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/footer-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/footer-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/module-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/no_img_upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-breadcrumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-ads.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-analytics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-categories.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-css.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-excerpts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-responsive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-template.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-translation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-typography.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-icons/ico-welcome.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-arrow-no-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-icon-selected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-shadow-bottom-corner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-shadow-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-shadow-top-corner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-shadow-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/menu-shadow-vertical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/panel-arrow-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/panel-wrap/panel-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/radio-check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/resp-desktop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/resp-ipado.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/resp-ipadv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/resp-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/saved.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/select_box_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/sidebar-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/sidebar-full.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/sidebar-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/sidebar-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/panel/tabs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/post-templates/post-templates-icons-0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/post-templates/post-templates-icons-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/post-templates/post-templates-icons-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/post-templates/post-templates-icons-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/post-templates/post-templates-icons-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/post-templates/post-templates-icons-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/images/toggle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/js/general.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/js/wp-admin-panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_import_font_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_panel_data_source.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_panel_generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_panel_start.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_view_custom_fonts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_view_import.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_view_import_category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_view_import_export_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/td_view_import_theme_styles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_ads.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_analytics.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_background.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_categories.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_custom_css.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_excerpts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_post_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_responsive_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_template_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_theme_colors.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_theme_fonts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_translations.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_welcome.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/tinymce/customcodes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/tinymce/tinymce.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" afterPath="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" />
     </list>
     <ignored path="thescroll.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,12 +601,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css">
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme-Vati/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37172773">
-              <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
-              <folding />
+            <state vertical-scroll-proportion="0.6666667">
+              <caret line="97" column="203" selection-start-line="97" selection-start-column="203" selection-end-line="97" selection-end-column="203" />
+              <folding>
+                <element signature="e#3836#3861#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +645,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_page_generator.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Newspaper-Theme-Vati/single.php" />
       </list>
     </option>
   </component>
@@ -145,10 +724,6 @@
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Newspaper-Theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -168,11 +743,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Newspaper-Theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="Newspaper-Theme-Vati" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -189,7 +760,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newpress" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wordpress" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Applications/MAMP/htdocs/thescroll/wp-content/themes/Newspaper-Theme/loop.php" />
   </component>
   <component name="RecentsManager">
@@ -250,10 +821,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32503662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32503662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32796487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -282,361 +853,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/tag.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme-Vati/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9215686">
-          <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_templates_settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33222592">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_homepage_loop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.37375414">
-          <caret line="0" column="30" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/content-metaboxes/td_set_post_settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.049833886">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84313726">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="132.90196">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/class-tgm-plugin-activation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_demo_site.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_first_install.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_fonts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7392026">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_social_icons.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0448505">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_widget_builder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1764705">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_video_support.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_unique_posts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0448505">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/files_cookies_settings/demo_style_1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9411764">
-          <caret line="174" column="4" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/demo/td_theme_demo_cookies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-full-text-logo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0448505">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_global.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11923689">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_css_buffer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_block_layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0448505">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_ads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_css_compiler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9215686">
-          <caret line="64" column="44" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_theme_colors.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7138315">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.156863">
-          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_ads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-106.291664">
-          <caret line="1690" column="55" selection-start-line="1690" selection-start-column="55" selection-end-line="1690" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/td-bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3773087">
-          <caret line="0" column="39436" selection-start-line="0" selection-start-column="39436" selection-end-line="0" selection-end-column="39436" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/external/bootstrap/td-bootstrap-1170-not-resp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40412045">
-          <caret line="2233" column="8" selection-start-line="2233" selection-start-column="8" selection-end-line="2233" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_css_generator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.372549">
-          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_responsive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.791667">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/fonts/fontawesome-webfont.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33282444">
-          <caret line="418" column="143" selection-start-line="418" selection-start-column="143" selection-end-line="418" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/wp-admin/panel/views/panel_responsive_settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="110.583336">
-          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop-single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30903327">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0421053">
-          <caret line="871" column="141" selection-start-line="871" selection-start-column="141" selection-end-line="871" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39473686">
-          <caret line="103" column="55" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1056511">
-          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/parts/header-style-8-one-line.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/customcss_new_beckup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92665035">
-          <caret line="417" column="1" selection-start-line="417" selection-start-column="1" selection-end-line="417" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/td_module_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14669926">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_util.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33251834">
-          <caret line="481" column="20" selection-start-line="481" selection-start-column="20" selection-end-line="481" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/modules/module_modifier/td_module_blog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33251834">
-          <caret line="211" column="62" selection-start-line="211" selection-start-column="62" selection-end-line="211" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30394432">
-          <caret line="56" column="91" selection-start-line="56" selection-start-column="91" selection-end-line="56" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33421052">
-          <caret line="8592" column="12" selection-start-line="8592" selection-start-column="1" selection-end-line="8592" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5896806">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/includes/wp_booster/td_page_generator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2948403">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/loop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42997542">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Newspaper-Theme/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37172773">
-          <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
-          <folding />
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="97" column="203" selection-start-line="97" selection-start-column="203" selection-end-line="97" selection-end-column="203" />
+          <folding>
+            <element signature="e#3836#3861#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
