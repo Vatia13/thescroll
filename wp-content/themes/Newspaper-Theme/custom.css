@@ -95,9 +95,13 @@
 
 .td-footer-wrap .column_container{
     width:15% !important;
-    margin:2% !important;
+    margin:0 2% 0 2% !important;
     padding:0 !important;
     text-align:center;
+}
+
+.td-footer-wrap .column_container ul li{
+    line-height:15px !important;
 }
 
 .td-footer-wrap .column_container:nth-child(3){
@@ -422,6 +426,21 @@ article .page-nav-post a{
         max-width:759px;
         width:100% !important;
     }
+    .single-post .td-post-content .entry-title{
+        font-size:35px !important;
+        line-height:37px;
+    }
+
+    .post{
+        width:99%;
+        margin:0 auto;
+        padding:0;
+    }
+
+    .single-post .container.td-page-wrap{
+        left:0;
+        width:100%;
+    }
 }
 
 @media screen and (max-width:500px){
@@ -430,9 +449,19 @@ article .page-nav-post a{
     }
     .single-post .td-post-sidebar{
         margin-left:0 !important;
+        width:100% !important;
     }
 
     .single-post .container.td-page-wrap .span12{
         padding:49px 0;
     }
+
+    .single-post .td-post-content .entry-title{
+        font-size:30px !important;
+        line-height:32px;
+    }
+    .single-post .post .page-nav-post{
+        margin-bottom:0;
+    }
+
 }
